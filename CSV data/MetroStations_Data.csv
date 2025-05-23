@@ -1,0 +1,222 @@
+m_id,Station,Line,X,Y
+1,Adarsh Nagar,Yellow Line,77.1672884,28.7144008
+2,AIIMS,Yellow Line,77.2078058,28.5668602
+3,Akshardham,Blue Line,77.27948814,28.61784195
+4,Anand Vihar ISBT,Blue Line branch,77.3180037,28.6467533
+5,Arjan Garh,Yellow Line,77.1257622,28.4807352
+6,Arthala,Red Line,77.3918919,28.676999
+7,Ashok Park Main,Green Line,77.155291,28.6716045
+8,Ashram,Pink Line,77.2585979,28.5724231
+9,Azadpur,Yellow Line,77.1755473,28.7076568
+10,Badarpur Border,Violet Line,77.3040379,28.4904999
+11,Bahadurgarh City,Green Line,76.9354851,28.6907847
+12,Barakhambha Road,Blue Line,77.2250046,28.6297676
+13,Bata Chowk,Violet Line,77.313462,28.3858361
+14,Bhikaji Cama Place,Pink Line,77.18701648,28.56790025
+15,Botanical Garden,Blue Line,77.334332,28.5638964
+16,Brigadier Hoshiyar Singh,Green Line,76.9192027,28.6974603
+17,Central Secretariat,Yellow Line,77.2122822,28.6158794
+18,Chandni Chowk,Yellow Line,77.2297797,28.6605039
+19,Chawri Bazar,Yellow Line,77.2295008,28.6501605
+20,Chhatarpur,Yellow Line,77.1750019,28.5067242
+21,Chirag Delhi,Magenta Line,77.2280694,28.5381411
+22,Civil Lines,Yellow Line,77.2250299,28.6768508
+23,Dabri Mor-Janakpuri South,Magenta Line,77.085178,28.6157555
+24,Dashrath Puri,Magenta Line,77.0823561,28.6018751
+25,Delhi Aerocity,Orange Line,77.1208089,28.5487982
+26,Delhi Cantonment,Pink Line,77.13497891,28.5938331
+27,Delhi Gate,Violet Line,77.2407823,28.6392036
+28,Dhaula Kuan,Orange Line,77.1617034,28.5918905
+29,Dilshad Garden,Red Line,77.32143998,28.67588615
+30,Durgabai Deshmukh South Campus,Pink Line,77.1690817,28.5894384
+31,Dwarka,Blue Line,77.0442935,28.5771915
+32,Dwarka Mor,Blue Line,77.0332792,28.61931
+33,Dwarka Sector 8,Blue Line,77.0670366,28.5656109
+34,Dwarka Sector 9,Blue Line,77.0653316,28.574272
+35,Dwarka Sector 10,Blue Line,77.0574996,28.5810577
+36,Dwarka Sector 11,Blue Line,77.0494375,28.5864469
+37,Dwarka Sector 12,Blue Line,77.0407315,28.5922362
+38,Dwarka Sector 13,Blue Line,77.0335407,28.597009
+39,Dwarka Sector 14,Blue Line,77.02595656,28.60225285
+40,Dwarka Sector 21,Blue Line,77.0586489,28.5518376
+41,East Azad Nagar,Pink Line,77.284881,28.6646964
+42,East Vinod Nagar ? Mayur Vihar-II,Pink Line,77.3054069,28.6200437
+43,Escorts Mujesar,Violet Line,77.3149203,28.3702344
+44,ESI Hospital,Pink Line,77.1272678,28.6580737
+45,Ghevra,Green Line,76.9961591,28.6852384
+46,Ghitorni,Yellow Line,77.1491866,28.493751
+47,Gokulpuri,Pink Line,77.2861253,28.7024752
+48,Golf Course,Blue Line,77.15981693,28.59778075
+49,Govind Puri,Violet Line,77.264266,28.5443766
+50,Greater Kailash,Magenta Line,77.2384553,28.5418777
+51,Green Park,Yellow Line,77.2067183,28.5585815
+52,GTB Nagar,Yellow Line,77.2064113,28.6981317
+53,Guru Dronacharya,Yellow Line,77.1022685,28.4820212
+54,Haiderpur,Yellow Line,77.1494029,28.7301214
+55,Harkesh Nagar Okhla,Violet Line,77.2755616,28.5431246
+56,Hauz Khas,Yellow Line,77.2067072,28.5442564
+57,Hazrat Nizamuddin,Pink Line,77.2572494,28.5887494
+58,Hindon,Red Line,77.4154832,28.878965
+59,HUDA City Centre,Yellow Line,77.0726571,28.4593429
+60,IFFCO Chowk,Yellow Line,77.0724222,28.4723277
+61,INA,Yellow Line,77.21024148,28.57440755
+62,Inderlok,Red Line,77.2219388,28.6517178
+63,Indira Gandhi International Airport,Orange Line,77.08467458,28.55489735
+64,Indraprastha,Blue Line,77.249551,28.6206019
+65,IP Extension,Pink Line,77.31019788,28.6288991
+66,ITO,Violet Line,77.2414363,28.6305091
+67,Jaffrabad,Pink Line,77.2748055,28.6826822
+68,Jahangirpuri,Yellow Line,77.162658,28.7259717
+69,Jama Masjid,Violet Line,77.23767617,28.65001015
+70,Jamia Millia Islamia,Magenta Line,77.28116474,28.55849025
+71,Janakpuri East,Blue Line,77.086757,28.633021
+72,Janakpuri West,Blue Line,77.0779235,28.6289502
+73,Jangpura,Violet Line,77.24150007,28.58245705
+74,Janpath,Violet Line,77.2181649,28.6088598
+75,Jasola Apollo,Violet Line,77.2830377,28.5384251
+76,Jasola Vihar Shaheen Bagh,Magenta Line,77.2966578,28.5458279
+77,Jawaharlal Nehru Stadium,Violet Line,77.2335404,28.58337705
+78,Jhandewalan,Blue Line,77.1999165,28.6443188
+79,Jhilmil,Red Line,77.31250458,28.6757033
+80,Jor Bagh,Yellow Line,77.21652774,28.58823925
+81,Kailash Colony,Violet Line,77.2429694,28.5530522
+82,Kalindi Kunj,Magenta Line,77.3059891,28.5452187
+83,Kalkaji Mandir,Violet Line,77.2606671,28.5497752
+84,Kanhaiya Nagar,Red Line,77.1648445,28.6800635
+85,Karkarduma,Blue Line branch,77.30620811,28.6491622
+86,Karkarduma Court,Pink Line,77.2957877,28.6536001
+87,Karol Bagh,Blue Line,77.189132,28.6441866
+88,Kashmere Gate,Red Line,77.2219388,28.6517178
+89,Kaushambi,Blue Line branch,77.3243485,28.6453286
+90,Keshav Puram,Red Line,77.1616833,28.6889264
+91,Khan Market,Violet Line,77.22649064,28.6001354
+92,Kirti Nagar?,Blue Line,77.1417729,28.6532807
+93,Krishna Nagar,Pink Line,77.2901853,28.6578461
+94,Kohat Enclave,Red Line,77.1405393,28.6980415
+95,Lajpat Nagar,Violet Line,77.23653028,28.57060215
+96,Lal Qila,Violet Line,77.52850191,17.92086195
+97,Laxmi Nagar,Blue Line branch,77.27763317,28.63055515
+98,Lok Kalyan Marg,Yellow Line,77.2029964,28.598385
+99,Madipur,Green Line,77.1193599,28.6764752
+100,Majlis Park,Pink Line,77.181964,28.7244312
+101,Major Mohit Sharma,Red Line,77.3581426,28.6776112
+102,Malviya Nagar,Yellow Line,77.2124474,28.5339201
+103,Mandawali ? West Vinod Nagar,Pink Line,77.3044906,28.6249712
+104,Mandi House,Blue Line,77.234195,28.6255556
+105,Mansarovar Park,Red Line,77.300102,28.6757386
+106,Maujpur-Babarpur,Pink Line,77.27962397,28.69197845
+107,Mayapuri,Pink Line,77.1297333,28.6371795
+108,Mayur Vihar -I,Blue Line,77.2925892,28.603133
+109,Mayur Vihar Extension,Blue Line,77.29458935,28.59415815
+110,Mayur Vihar Pocket I,Pink Line,77.2987023,28.6058619
+111,Mewala Maharajpur,Violet Line,77.3023001,28.4418747
+112,MG Road,Yellow Line,77.0804652,28.4794579
+113,Model Town,Yellow Line,77.1939912,28.7027136
+114,Mohan Estate,Violet Line,77.29458455,28.5195895
+115,Mohan Nagar,Red Line,77.10608185,28.60631905
+116,Moolchand,Violet Line,77.2342783,28.5644043
+117,Moti Nagar,Blue Line,77.1424288,28.657859
+118,Mundka,Green Line,77.0305741,28.6824341
+119,Mundka Industrial Area,Green Line,77.0171333,28.6834491
+120,Munirka,Magenta Line,77.1710841,28.554886
+121,Najafgarh,Grey Line,76.9823908,28.612304
+122,Nangli,Grey Line,77.0104375,28.6173003
+123,Nangloi,Green Line,77.0647319,28.6824007
+124,Nangloi Railway station,Green Line,77.0562463,28.6822009
+125,Naraina Vihar,Pink Line,77.1403175,28.6273375
+126,Nawada,Blue Line,77.0450787,28.6202758
+127,Neelam Chowk Ajronda,Violet Line,77.3123599,28.3974824
+128,Nehru Enclave,Magenta Line,77.2515057,28.5460584
+129,Nehru Place,Violet Line,77.252952,28.54925735
+130,Netaji Subhash Place,Red Line,77.15264042,28.69605175
+131,New Ashok Nagar,Blue Line,77.3015085,28.5890885
+132,New Delhi,Yellow Line,77.2217373,28.6436415
+133,Nirman Vihar,Blue Line branch,77.28683489,28.63650605
+134,Noida Electronic City,Blue Line,77.293303,28.5793538
+135,Noida Sector 15,Blue Line,77.0848883,28.4808629
+136,Noida Sector 16,Blue Line,77.0848883,28.4808629
+137,Noida Sector 18,Blue Line,77.0848883,28.4808629
+138,Noida Sector 34,Blue Line,77.0848883,28.4808629
+139,Noida Sector 52,Blue Line,77.0848883,28.4808629
+140,Noida Sector 59,Blue Line,77.0848883,28.4808629
+141,Noida Sector 61,Blue Line,77.0848883,28.4808629
+142,Noida Sector 62,Blue Line,77.0848883,28.4808629
+143,Okhla Bird Sanctuary,Magenta Line,77.321595,28.5529418
+144,Okhla NSIC,Magenta Line,77.2648487,28.5544828
+145,Okhla Vihar,Magenta Line,77.2919304,28.5613002
+146,Old Faridabad,Violet Line,77.0848883,28.4808629
+147,Palam,Magenta Line,77.0828242,28.5918933
+148,Panchsheel Park,Magenta Line,77.2140757,28.5433525
+149,Pandit Shree Ram Sharma,Green Line,76.9511988,28.689281
+150,Paschim Vihar East,Green Line,77.1122953,28.6773985
+151,Paschim Vihar West,Green Line,77.1022255,28.6786514
+152,Patel Chowk,Yellow Line,77.214031,28.6229664
+153,Patel Nagar,Blue Line,77.1686983,28.6455858
+154,Peera Garhi,Green Line,77.0926793,28.6798074
+155,Pitam Pura,Red Line,77.1322497,28.7032676
+156,Pratap Nagar,Red Line,77.19933568,28.6664902
+157,Preet Vihar,Blue Line branch,77.29537443,28.6414952
+158,Pul Bangash,Red Line,77.20752912,28.6663751
+159,Punjabi Bagh,Green Line,77.1324614,28.668945
+160,Punjabi Bagh West,Pink Line,77.1420875,28.6703201
+161,R.K.Puram,Magenta Line,77.1847012,28.5514261
+162,Raja Nahar Singh,Violet Line,77.3164281,28.3400192
+163,Raj Bagh,Red Line,77.2094999,28.6408602
+164,Rajdhani Park,Green Line,77.0439437,28.6823085
+165,Rajendra Place,Blue Line,77.1782756,28.6424955
+166,Rajiv Chowk,Yellow Line,77.2196996,28.6327804
+167,Rajouri Garden,Blue Line,77.11606038,28.6421518
+168,Ramakrishna Ashram Marg,Blue Line,77.2085787,28.6392436
+169,Ramesh Nagar,Blue Line,77.1316496,28.6527444
+170,Rithala,Red Line,77.1071813,28.7208064
+171,Rohini East,Red Line,77.1260386,28.7075901
+172,Rohini Sector 18,Yellow Line,77.1398323,28.7383477
+173,Rohini West,Red Line,77.115385,28.7149569
+174,Sadar Bazaar Cantonment,Magenta Line,77.1111533,28.5771509
+175,Saket,Yellow Line,77.2137253,28.5244107
+176,Samaypur Badli,Yellow Line,77.1382654,28.7446158
+177,Sant Surdas (Sihi),Violet Line,77.3162264,28.3546513
+178,Sarai,Violet Line,77.2219388,28.6517178
+179,Sarita Vihar,Violet Line,77.28839655,28.5286597
+180,Sarojini Nagar,Pink Line,77.1953703,28.5741575
+181,Satguru Ramsingh Marg,Green Line branch,77.1574772,28.6619327
+182,Sector 28,Violet Line,77.03257609,28.54525655
+183,Seelampur,Red Line,77.26675403,28.6698302
+184,Shadipur,Blue Line,77.1582947,28.6516362
+185,Shahdara,Red Line,77.28974036,28.6734037
+186,Shaheed Nagar,Red Line,77.2120573,28.5307795
+187,Shaheed Sthal,Red Line,77.4155822,28.6706109
+188,Shakurpur,Pink Line,77.1496094,28.6857668
+189,Shalimar Bagh,Pink Line,77.15086655,28.71745265
+190,Shankar Vihar,Magenta Line,77.13966549,28.55743865
+191,Shastri Nagar,Red Line,77.18199977,28.66997485
+192,Shastri Park,Red Line,77.25039874,28.6682776
+193,Shiv Vihar,Pink Line,77.03543017,28.61753755
+194,Shivaji Park,Green Line,77.1304722,28.6750317
+195,Shivaji Stadium,Orange Line,77.2160589,28.6315087
+196,Shyam Park,Red Line,77.26846413,28.6988072
+197,Sikandarpur,Yellow Line,77.092999,28.4812704
+198,Sir Vishweshwaraiah Moti Bagh,Pink Line,77.175741,28.5785326
+199,South,Pink Line,77.2219388,28.6517178
+200,Subhash Nagar,Blue Line,77.1087611,28.6418074
+201,Sukhdev Vihar,Magenta Line,77.2749004,28.5597477
+202,Sultanpur,Yellow Line,76.8700852,28.4616582
+203,Supreme Court,Blue Line,77.23943397,28.6222879
+204,Tagore Garden,Blue Line,77.1128454,28.6437639
+205,Tikri Border,Green Line,76.9640828,28.6880254
+206,Tikri Kalan,Green Line,76.9772069,28.6868661
+207,Tilak Nagar,Blue Line,77.0964961,28.6365482
+208,Tis Hazari,Red Line,77.21662796,28.6671323
+209,Trilokpuri Sanjay Lake,Pink Line,77.3088549,28.613453
+210,Tughlakabad Station,Violet Line,77.2992401,28.5023598
+211,Udyog Bhawan,Yellow Line,77.2131076,28.6105302
+212,Udyog Nagar,Green Line,77.0808492,28.681103
+213,Uttam Nagar East,Blue Line,77.0652861,28.6248465
+214,Uttam Nagar West,Blue Line,77.0557122,28.621757
+215,Vaishali,Blue Line branch,77.06838558,28.6440912
+216,Vasant Vihar,Magenta Line,77.16079073,28.56069055
+217,Vidhan Sabha,Yellow Line,77.2217271,28.6863222
+218,Vinobapuri,Pink Line,77.2491906,28.5669763
+219,Vishwa Vidyalaya,Yellow Line,77.2147192,28.6950369
+220,Welcome,Red Line,77.2219388,28.6517178
+221,Yamuna Bank,Blue Line,77.26792405,28.6232784
