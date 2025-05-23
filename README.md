@@ -13,6 +13,10 @@ We kicked off by gathering the core data:
 * **Property Listings:** Our primary real estate property listings were meticulously extracted from **MagicBricks.com**. A custom Python web scraping script (`Web_Scraping.ipynb`), powered by `Selenium` for navigation and `BeautifulSoup` for parsing, systematically collected details like property names, prices, locations, features (bedrooms, area, status), and transaction types.
 * **Amenity Data:** Essential data for metro stations, hospitals, and schools was concurrently sourced from official government websites, ensuring accuracy and reliability.
 
+![image](https://github.com/user-attachments/assets/2559ffad-cf28-4a30-84b2-e1733b846619)
+![image](https://github.com/user-attachments/assets/18d2bca4-5cd1-4ed2-909c-0f5391f99095)
+
+
 ### Step 2: Data Sculpting & Refinement ✨
 
 Raw data needs a good polish! This phase focused on shaping our datasets for analysis:
@@ -27,6 +31,7 @@ This is where our data truly came alive with location-based insights:
 * **Geocoding Properties:** Our main web-scraped dataset was fed into a Python geocoding script (`Geo_Coding_Location.ipynb`). Leveraging the **LocationIQ Geocoding API**, this script transformed descriptive addresses into precise X (longitude) and Y (latitude) coordinates. These coordinates are the bedrock for all subsequent spatial analysis.
 * **Mapping Closest Amenities:** With coordinates in hand, the `Amenities_Location_Maping.ipynb` Python script took over. It intelligently identified and mapped the **closest metro stations, schools, and hospitals** to each real estate property, linking them via unique IDs.
 * **Calculating Distances to Amenities:** The `Amenities_Distance_Calculation.ipynb` script then computed the exact **Euclidean distances** from every property to its nearest metro station, hospital, and school. These distances, initially raw, were converted into intuitive kilometers, providing a clear understanding of convenience and accessibility.
+  
 
 ### Step 4: Database Power & Initial Discoveries 📊
 
@@ -38,6 +43,8 @@ Once the data was rich with geospatial information, it was time to store and que
     * Average price per square foot across different cities.
     * Properties alongside their nearest metro stations and hospitals.
     * A view of properties with their three closest schools.
+![image](https://github.com/user-attachments/assets/6e252ee8-96a6-475c-b756-c7d53ceb4b32)
+
 
 ### Step 5: Interactive Storytelling with Power BI 📈
 
@@ -46,5 +53,9 @@ The culmination of our efforts is an **interactive and comprehensive Power BI da
 * **Overall Market Trends:** Get a high-level view of key statistics and property distribution.
 * **Location-Based Analysis:** Understand property concentration and proximity to essential amenities in different areas.
 * **Detailed Property Insights:** Filter and analyze properties based on numerous attributes like price ranges, number of bedrooms, transaction type, and more.
+![image](https://github.com/user-attachments/assets/832bbc38-d36f-4fc4-8933-2ef713bc5c12)
+![image](https://github.com/user-attachments/assets/40d9bbc9-e52d-497a-bb32-16b7e6ef159c)
+![image](https://github.com/user-attachments/assets/0e182f06-f943-4d64-9d64-f0c4018132d4)
+
 
 ---
