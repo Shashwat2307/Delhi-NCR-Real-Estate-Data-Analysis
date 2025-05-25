@@ -7,7 +7,7 @@ Our aim? To peel back the layers of the real estate market, revealing average pr
 ## 🎥 Project Walkthrough
 
 Watch the project demo here:
-📺 [Click to watch]([[https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view)))
+📺 [Click to watch]([https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view]))
 
 ## Project Journey: 
 
