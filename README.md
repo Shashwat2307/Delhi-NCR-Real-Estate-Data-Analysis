@@ -14,7 +14,7 @@ We kicked off by gathering the core data:
 * **Amenity Data:** Essential data for metro stations, hospitals, and schools was concurrently sourced from official government websites, ensuring accuracy and reliability.
 
 ![image](https://github.com/user-attachments/assets/2559ffad-cf28-4a30-84b2-e1733b846619)
-![image](https://github.com/user-attachments/assets/18d2bca4-5cd1-4ed2-909c-0f5391f99095)
+![image](https://github.com/user-attachments/assets/18d2bca4-5cd1-4ed2-909c-0f5391f99095) 
 
 
 ### Step 2: Data Sculpting & Refinement ✨
@@ -53,9 +53,9 @@ The culmination of our efforts is an **interactive and comprehensive Power BI da
 * **Overall Market Trends:** Get a high-level view of key statistics and property distribution.
 * **Location-Based Analysis:** Understand property concentration and proximity to essential amenities in different areas.
 * **Detailed Property Insights:** Filter and analyze properties based on numerous attributes like price ranges, number of bedrooms, transaction type, and more.
-![image](https://github.com/user-attachments/assets/832bbc38-d36f-4fc4-8933-2ef713bc5c12)
-![image](https://github.com/user-attachments/assets/40d9bbc9-e52d-497a-bb32-16b7e6ef159c)
+  
 ![image](https://github.com/user-attachments/assets/0e182f06-f943-4d64-9d64-f0c4018132d4)
-
+![image](https://github.com/user-attachments/assets/40d9bbc9-e52d-497a-bb32-16b7e6ef159c)
+![image](https://github.com/user-attachments/assets/832bbc38-d36f-4fc4-8933-2ef713bc5c12)
 
 ---
