@@ -4,6 +4,11 @@ Welcome to the Delhi-NCR Real Estate Market Analyzer! This project provides a ro
 
 Our aim? To peel back the layers of the real estate market, revealing average prices, property distribution, and crucial proximity to essential amenities like metro stations, hospitals, and schools.
 
+## 🎥 Project Walkthrough
+
+Watch the project demo here:
+📺 [Click to watch]([https://drive.google.com/file/d/1EVL5y2svSt-4xTiZUHcZMW6n7epwYhmB/view?usp=drive_link](https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view?usp=sharing))
+
 ## Project Journey: 
 
 ### Step 1: Data Harvesting 🕸️
