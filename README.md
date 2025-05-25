@@ -1,4 +1,4 @@
-# 🏠 Delhi-NCR Real Estate Market Analyzer
+[# 🏠 Delhi-NCR Real Estate Market Analyzer
 
 Welcome to the Delhi-NCR Real Estate Market Analyzer! This project provides a robust, end-to-end solution for understanding the property landscape in the Delhi-National Capital Region. From raw web data to interactive insights, we've built a comprehensive pipeline using a blend of web scraping, data engineering, geospatial analysis, and powerful visualization.
 
@@ -7,7 +7,7 @@ Our aim? To peel back the layers of the real estate market, revealing average pr
 ## 🎥 Project Walkthrough
 
 Watch the project demo here:
-📺 [Click to watch]([https://drive.google.com/file/d/1EVL5y2svSt-4xTiZUHcZMW6n7epwYhmB/view?usp=drive_link](https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view?usp=sharing))
+📺 [Click to watch]([[https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view)))
 
 ## Project Journey: 
 
@@ -64,3 +64,4 @@ The culmination of our efforts is an **interactive and comprehensive Power BI da
 ![image](https://github.com/user-attachments/assets/832bbc38-d36f-4fc4-8933-2ef713bc5c12)
 
 ---
+](https://drive.google.com/file/d/1BkY7HHJwgKue87ZgxHp1pQDDkpM065aP/view)
